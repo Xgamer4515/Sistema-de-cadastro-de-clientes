@@ -26,7 +26,6 @@ Para compilar e executar o programa, siga as etapas abaixo:
 
 ```
 g++ main.cpp -o cadastro_clientes
-
 ```
 5. Após a compilação, execute o programa com o seguinte comando:
 
